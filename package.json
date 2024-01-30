@@ -1,0 +1,21 @@
+{
+  "name": "typeguardianjs",
+  "version": "0.0.1-alpha",
+  "description": "Open-source authentication and authorization system with React and Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "authentication",
+    "authorization",
+    "react",
+    "node",
+    "typescript"
+  ],
+  "author": "eduardo6722",
+  "license": "MIT",
+  "dependencies": {
+    "typeguardianjs": "latest"
+  }
+}

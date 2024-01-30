@@ -1,6 +1,6 @@
-# TypeGuardian
+# TypeGuardianJS
 
-TypeGuardian is an open-source authentication and authorization system built with React and Node.js. It allows you to seamlessly integrate secure user authentication into your applications while providing the flexibility to create and customize themes and email templates using React.
+TypeGuardianJS is an open-source authentication and authorization system built with React and Node.js. It allows you to seamlessly integrate secure user authentication into your applications while providing the flexibility to create and customize themes and email templates using React.
 
 ## Features
 
