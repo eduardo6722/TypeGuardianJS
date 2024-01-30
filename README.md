@@ -13,3 +13,5 @@ TypeGuardian is an open-source authentication and authorization system built wit
 ## Getting Started
 
 _soon_
+
+# Feel free to join and help to build this opensource project :)
